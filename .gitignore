@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Yampy Dev
+log
+log/*
+output/*
+.DS_Store
